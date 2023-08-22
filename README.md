@@ -1,2 +1,2 @@
-# projeto-GridLayout
-Projeto CSS Grid Layout
+# projeto-grid-layout
+Prática de CSS Grid Layout
