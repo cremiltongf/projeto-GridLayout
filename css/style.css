@@ -144,10 +144,10 @@ img{
     display: flex;
 }
 .nav-menu li + li{
-    margin-left: 1.6rem;
+    margin-left: 1rem;
 }
 .social img{
-    transition: rotate 1s;
+    transition: rotate .5s;
 }
 .social img:hover{
     rotate: 16deg;
@@ -156,8 +156,8 @@ img{
     font-size: 2rem;
     color:#007055;
     text-decoration: none;
-    padding: .6rem 1.4rem;
-    transition: .4s;
+    padding: .4rem .8rem;
+    transition: all .4s ease-in-out;
     border-radius: 6px;
 }
 .nav-menu a:hover{
